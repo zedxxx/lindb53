@@ -1,0 +1,3 @@
+/build_windows/x64/*
+*.suo
+/build_windows/*.db
